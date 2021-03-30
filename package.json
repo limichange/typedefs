@@ -1,5 +1,5 @@
 {
-    "name": "@phala/types-chain",
+    "name": "@phala/typedefs",
     "private": true,
     "version": "0.0.1",
     "main": "index.js",
