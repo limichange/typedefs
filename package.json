@@ -1,7 +1,7 @@
 {
     "name": "@phala/typedefs",
     "private": true,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "index.js",
     "repository": "github:Phala-Network/typedefs",
     "author": "Jiacheng ZHANG <os@kt.je>",
