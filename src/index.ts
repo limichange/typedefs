@@ -14,3 +14,5 @@ export const typesChain = {
   'Phala Development': phalaTypeDef,
   'Local Testnet': phalaTypeDef,
 };
+
+export const latest = phalaTypeDef;
