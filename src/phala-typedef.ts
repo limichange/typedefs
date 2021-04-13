@@ -52,6 +52,11 @@ export default {
       "totalPower": "u32",
       "fracTargetComputeReward": "u32"
     },
+    "StashWorkerStats": {
+      "slash": "Balance",
+      "compute_received": "Balance",
+      "online_received": "Balance"
+    },
     "MinerStatsDelta": {
       "numWorker": "i32",
       "numPower": "i32"
