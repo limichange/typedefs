@@ -21,7 +21,9 @@ export default {
       "pubkey": "Vec<u8>",
       "lastUpdated": "u64",
       "state": "WorkerStateEnum",
-      "score": "Option<Score>"
+      "score": "Option<Score>",
+      "confidenceLevel": "u8",
+      "runtimeVersion": "u32"
     },
     "Score": {
       "overallScore": "u32",
