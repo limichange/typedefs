@@ -56,8 +56,8 @@ export default {
     },
     "StashWorkerStats": {
       "slash": "Balance",
-      "compute_received": "Balance",
-      "online_received": "Balance"
+      "computeReceived": "Balance",
+      "onlineReceived": "Balance"
     },
     "MinerStatsDelta": {
       "numWorker": "i32",
