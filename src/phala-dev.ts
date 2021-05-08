@@ -3,9 +3,10 @@
 export default {
     "Address": "MultiAddress",
     "LookupSource": "MultiAddress",
-    "EthereumAddress": "H160",
-    "EcdsaSignature": "[u8; 65]",
-    "EthereumTxHash": "H256",
+    "ChainId": "u8",
+    "ResourceId": "[u8; 32]",
+    "TokenId": "u256",
+    "DepositNonce": "u64",
     "WorkerStateEnum": {
       "_enum": {
         "Empty": null,
