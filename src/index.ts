@@ -10,11 +10,12 @@ import dev from './phala-dev';
 export const typesChain = {
   'Phala PoC-3': poc3,
   'Phala PoC-4': poc4,
+  'Phala PoC-Next': dev,
   'Phala Local Testnet': poc4,
-  'Integration Test': dev,
-  'Staging Testnet': dev,
+  'Phala Integration Test': dev,
+  'Phala Staging Testnet': dev,
   'Phala Development': dev,
-  'Local Testnet': dev,
+  'Phala Local Testnet': dev,
 };
 
 export {
