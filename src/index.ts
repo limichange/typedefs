@@ -15,7 +15,6 @@ export const typesChain = {
   'Phala Integration Test': dev,
   'Phala Staging Testnet': dev,
   'Phala Development': dev,
-  'Phala Local Testnet': dev,
 };
 
 export {
