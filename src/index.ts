@@ -1,10 +1,9 @@
 // Copyright 2017-2020 @polkadot/apps-config authors & contributors
 // SPDX-License-Identifier: Apache-2.0
 
-import poc3 from './phala-poc3';
-import poc4 from './phala-poc4';
-import dev from './phala-dev';
-
+import poc3 from './phala-poc3'
+import poc4 from './phala-poc4'
+import dev from './phala-dev'
 
 // alphabetical
 export const typesChain = {
@@ -15,15 +14,16 @@ export const typesChain = {
   'Phala Integration Test': dev,
   'Phala Staging Testnet': dev,
   'Phala Development': dev,
-};
+}
 
 export {
+  // poc3
   poc3,
   poc3 as Poc3,
-
+  // poc4
   poc4,
   poc4 as Poc4,
-
+  // dev
   dev,
   dev as Dev,
   dev as latest,
